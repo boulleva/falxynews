@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639383360929",
+    "project_id": "falxynews-app",
+    "storage_bucket": "falxynews-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639383360929:android:8af44a42caa555fdbee7e0",
+        "android_client_info": {
+          "package_name": "com.example.falxynews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsSOit19-lbGtULm2nhrZbcbaExpzSwDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
